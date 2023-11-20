@@ -1,0 +1,42 @@
+2) ACD - Expedição                                                250
+
+a) Cadastro das Transportadoras                                   5
+
+b) Cadastro de Operadores                                         2
+   b1) Impressão de Etiquetas                                     4
+
+c) Cadastro Cartão de Volume                                      10
+
+d)	Aglutinação de pedidos através da Ordem de separação           10
+
+e)	Monitor da Expedição                                           30
+   e1) Alteração para Nova Origem
+
+f)	Separação
+   f0) Leitura da etiqueta com a matricula do operador            5
+   f1) Convocação automática do separador                         10
+   f2) Separação por endereço                                     10
+   f3) Leitura por código de barras unitário (Ean 13) ou
+       caixas (Ean 14)                                            15
+   f4) Seleção do Cartão de Volume                                5
+   f5) Controle de Divergencia - Reliberação do pedido com a
+       nova quantidade a partir de operador habilitado,
+       utilizará uma aprovação de alçada                          10
+
+g) Montagem dos Volumes
+   g0) Seleção do Cartão do Volume                                10
+   g1) Seleção dos itens do Volume                                10
+   g2) Calculo do Peso Bruto e Liquido a partir da quantidade
+       itens x peso do produto com Integração com Balança         10
+   g3) Impressão de etiqueta                                      5
+   g4) Geração da nota fiscal por volume;                         5
+
+h)	Romaneio de Entrega
+   h1) Criação de romaneio separador por Transportadora, Notas
+       e Volumes gerados no dia até hora de corte (16:00)         10
+   h2) Opção para manutenção do Romaneio permitindo inclusão
+       manual de notas fiscais                                    5
+   h3) Envio de e-mail do romaneio para a transportadora          15
+   h4) Opção para impressão do relatório de romaneio              10
+
+i) Validação do Processo                                          54

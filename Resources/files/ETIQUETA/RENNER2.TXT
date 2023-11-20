@@ -1,0 +1,13 @@
+N
+R35,0
+A0,20,0,2,2,5,N,"MATERIAL PROMOCIONAL"
+A0,100,0,2,2,5,N,"LOJA N: 1"
+A0,180,0,2,2,3,N,"End: Av. Otavio Rocha, 184"
+A0,240,0,2,2,3,N,"Porto Alegre - RS"
+A0,300,0,2,2,4,N,"CAMPANHA: CAPTACAO"
+A0,370,0,2,2,3,N,"A/C AMANDA PINTO"
+A0,420,0,2,2,3,N,"(brindes de captacao para uso"
+A0,470,0,2,2,3,N,"na lj. 192 Andradas)"
+P1
+N
+    

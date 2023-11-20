@@ -1,0 +1,34 @@
+Analise e montagem de previsão de horas.
+
+a) Montagem do fluxo do processo completo                                                                    - 60 horas
+b) RECEBIMENTO - Implantação do padrão                                                                       - 60 Horas
+d) INVENTARIO - Implantação do padrão                                                                        - 60 Horas
+e) SEPARACAO - Implantação do Padrão                                                                         - 60 horas
+f) SEPARACAO - Critério especifico para seleção dos lotes                                                    - 30 horas
+
+g) ETIQUETAS - 11 Etiquetas                                                                                  - 100 horas
+
+g1) 1 layout para o recebimento;
+g2) 2 layouts para a produção;
+g3) 2 layouts para a expedição (necessário 1 layout específico para exportação).
+g4) NOTA_EXPORTACAO 4 etiquetas: 1 para caixa de embarque 1º nível
+                                1 por caixa de embarque 2º nível
+                                1 por caixa própria para exportação
+                                1 para o pallet (obrigatoriamente EAN128).
+g5) Etiqueta de caixa de embarque e etiquetas de pallet
+
+h) PRODUÇÃO - REQUISIÇÃO - Materias Primas e Produtos Intermediários - PRODUÇÃO                              - 100 horas
+              ORDEM DE PRODUÇÃO - Apontamento Parcial e Devolução Parcial
+              Apontamento de Perda
+
+i) Montagem de documentação de todo o processo                                                               - 30 horas
+                                                                                                               500 horas
+
+j) Validações, testes com usuário chave e entrega do projeto                                                 - 100 horas
+
+Processos
+
+1) RECEBIMENTO
+2) PRODUCAO
+3) EXPEDICAO
+4) INVENTARIO

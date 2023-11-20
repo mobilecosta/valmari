@@ -1,0 +1,13 @@
+N
+R35,0
+A0,20,0,2,2,5,N,"MATERIAL PROMOCIONAL"
+A0,120,0,2,2,5,N,"LOJA N: 1"
+A0,200,0,2,2,4,N,"Otavio Rocha"
+A0,270,0,2,2,3,N,"End: Av. Otavio Rocha, 184"
+A0,320,0,2,2,3,N,""
+A0,380,0,2,2,3,N,"Porto Alegre - RS"
+A0,300,0,2,2,3,N,""
+A0,440,0,2,2,7,N,"CAMPANHA: 0+8X"
+P1
+N
+    

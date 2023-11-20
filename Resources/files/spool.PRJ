@@ -1,0 +1,25 @@
+Group Teste
+   Version=7.0
+   VSSDB=
+   HasProperties=1
+   Properties
+      BeforeApply=
+      AfterApply=
+      Icon=
+      ID=
+      Version=
+      PalmName=
+      OutPut=
+   End
+   ProjectsCount=1
+   Project Novo Projeto
+      FoldersCount=1
+      Folder Fontes
+         VSSPath=Fontes
+         FilesCount=1
+         File \Dev\totvs\Valmari\files\mscbSpool.prw
+             Type=T
+         End
+      End
+   End
+End

@@ -1,0 +1,23 @@
+
+	/*  Etiqueta - SD1
+ Código: CB0_CODPRO12345							         No de Análise: CB0_LOTE12
+ Descrição: B1_DESC89012345678901234567890
+ Lote Fornecedor: CB0_XLOTEF12345678			              Quantidade/UM: 999999/PC (CB0_QTDE/D1_UM)
+ Data Validade: CB0_DTVLD					     	       Data Fabricação: 99/99/9999 (CB0_XDFABR)
+ Número Nota Entrada: CB0_NFENT/CB0_SERIEE		     Qtde por Caixa/Volume: 999999/999 (CB0_XEAN14)
+ Data Recebimento: D1_DTDIGIT
+ Visto do recebimento:
+
+ Código de Barras: CB0_CODETI
+	*/
+
+	/* Etiqueta - SD3
+ Código: CB0_CODPRO12345
+ Descrição: B1_DESC89012345678901234567890
+ Lote: CB0_LOTE12                                                   Data Validade: 99/99/9999 (CB0_DTVLD)
+ Caixa com: 999999 UN								                          Caixa 001 / 999
+ Visto da produção:
+ Visto da Expedição:
+
+ Código de Barras
+	*/
